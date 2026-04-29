@@ -1,8 +1,5 @@
 # 🧠 Memory in AI Agents: A Complete Study Guide
 
-<div align="center">
-
-
 
 **A Comprehensive, Beginner-to-Advanced Study Resource on Memory Systems in AI Agents**
 
