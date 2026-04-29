@@ -42,57 +42,57 @@ This is **not a blog post or quick overview**. This is a **comprehensive study r
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 1](chapter_1/) | Foundations of AI Agents | What agents are, core loops, autonomy |
-| [Chapter 2](chapter_2/) | Introduction to Memory in AI Agents | Why memory matters, human analogy |
-| [Chapter 3](chapter_3/) | Types of Memory in AI Agents | Short-term, long-term, episodic, semantic, etc. |
+| [Chapter 1](chapter_1.md) | Foundations of AI Agents | What agents are, core loops, autonomy |
+| [Chapter 2](chapter_2.md) | Introduction to Memory in AI Agents | Why memory matters, human analogy |
+| [Chapter 3](chapter_3.md) | Types of Memory in AI Agents | Short-term, long-term, episodic, semantic, etc. |
 
 ### **Part II: Memory Mechanics (Chapters 4–6)**
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 4](chapter_4/) | Memory Lifecycle | Creation, encoding, retrieval, deletion |
-| [Chapter 5](chapter_5/) | Memory Architecture | Where memory lives, layered architecture |
-| [Chapter 6](chapter_6/) | Short-Term Context & Working Memory | Context windows, state management |
+| [Chapter 4](chapter_4.md) | Memory Lifecycle | Creation, encoding, retrieval, deletion |
+| [Chapter 5](chapter_5.md) | Memory Architecture | Where memory lives, layered architecture |
+| [Chapter 6](chapter_6.md) | Short-Term Context & Working Memory | Context windows, state management |
 
 ### **Part III: Advanced Memory Systems (Chapters 7–9)**
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 7](chapter_7/) | Long-Term Memory Systems | Persistence, user profiles, cross-session |
-| [Chapter 8](chapter_8/) | Memory Retrieval | Search strategies, relevance scoring |
-| [Chapter 9](chapter_9/) | Vector Databases & Embeddings | Semantic similarity, vector stores |
+| [Chapter 7](chapter_7.md) | Long-Term Memory Systems | Persistence, user profiles, cross-session |
+| [Chapter 8](chapter_8.md) | Memory Retrieval | Search strategies, relevance scoring |
+| [Chapter 9](chapter_9.md) | Vector Databases & Embeddings | Semantic similarity, vector stores |
 
 ### **Part IV: Memory in Action (Chapters 10–14)**
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 10](chapter_10/) | Memory Writing Strategies | What to store, salience detection |
-| [Chapter 11](chapter_11/) | Memory Management & Forgetting | Decay, retention policies, cleanup |
-| [Chapter 12](chapter_12/) | Agent Planning & Memory | Multi-step tasks, goal tracking |
-| [Chapter 13](chapter_13/) | Memory in Tool-Using Agents | Tool histories, memory-aware selection |
-| [Chapter 14](chapter_14/) | Reflection & Self-Improvement | Learning from mistakes, meta-memory |
+| [Chapter 10](chapter_10.md) | Memory Writing Strategies | What to store, salience detection |
+| [Chapter 11](chapter_11.md) | Memory Management & Forgetting | Decay, retention policies, cleanup |
+| [Chapter 12](chapter_12.md) | Agent Planning & Memory | Multi-step tasks, goal tracking |
+| [Chapter 13](chapter_13.md) | Memory in Tool-Using Agents | Tool histories, memory-aware selection |
+| [Chapter 14](chapter_14.md) | Reflection & Self-Improvement | Learning from mistakes, meta-memory |
 
 ### **Part V: Multi-Agent & Design Patterns (Chapters 15–16)**
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 15](chapter_15/) | Multi-Agent Memory | Shared/private memory, coordination |
-| [Chapter 16](chapter_16/) | Memory Design Patterns | Proven architectural patterns |
+| [Chapter 15](chapter_15.md) | Multi-Agent Memory | Shared/private memory, coordination |
+| [Chapter 16](chapter_16.md) | Memory Design Patterns | Proven architectural patterns |
 
 ### **Part VI: Risks, Evaluation & Practice (Chapters 17–19)**
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 17](chapter_17/) | Failure Modes & Risks | Hallucination, privacy, security |
-| [Chapter 18](chapter_18/) | Evaluation of Memory Systems | Testing metrics, quality assessment |
-| [Chapter 19](chapter_19/) | Practical Memory Workflows | End-to-end lifecycle examples |
+| [Chapter 17](chapter_17.md) | Failure Modes & Risks | Hallucination, privacy, security |
+| [Chapter 18](chapter_18.md) | Evaluation of Memory Systems | Testing metrics, quality assessment |
+| [Chapter 19](chapter_19.md) | Practical Memory Workflows | End-to-end lifecycle examples |
 
 ### **Part VII: Applications & Future (Chapters 20–21)**
 
 | Chapter | Title | Focus Area |
 |---------|-------|------------|
-| [Chapter 20](chapter_20/) | Real-World Applications | Customer support, coding, healthcare, etc. |
-| [Chapter 21](chapter_21/) | Future of Memory in AI Agents | Research challenges, open problems |
+| [Chapter 20](chapter_20.md) | Real-World Applications | Customer support, coding, healthcare, etc. |
+| [Chapter 21](chapter_21.md) | Future of Memory in AI Agents | Research challenges, open problems |
 
 ---
 
